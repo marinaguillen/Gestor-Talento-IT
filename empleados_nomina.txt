@@ -1,0 +1,3 @@
+Programador: Marina Guillén | Sueldo: 1750.0 €
+Programador: Pepe Grillo | Sueldo: 1650.0 €
+Programador: Bill Gates | Sueldo: 2250.0 €
