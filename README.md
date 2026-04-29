@@ -13,7 +13,7 @@ Desarrollo de un sistema de gestión de nóminas para una consultora tecnológic
 ## 🏗️ Arquitectura del Proyecto
 - `Empleado`: Clase abstracta base.
 - `Programador`: Clase hija con lógica específica de negocio.
-- `GestionNominas`: Clase principal (Main) con el flujo de interacción.
+- `Main`: Clase principal (Main) con el flujo de interacción.
 
 ## 👤 Autor
 Marina Guillén Lagos - Estudiante de Programación Java en Adams.
